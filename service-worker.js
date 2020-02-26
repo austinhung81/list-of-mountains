@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/list-of-mountains/precache-manifest.e9d2271a682371cd748e552323cf0c96.js"
+  "/list-of-mountains/precache-manifest.24d245428d57f61aeb6701c9b3c4ffe0.js"
 );
 
 self.addEventListener('message', (event) => {
